@@ -13,7 +13,7 @@ int main(int argc, char *argv[]) {
 	
 	printf("Bienvenido Pepito tu edad es: %i", edad);
 	
-	if(edad>=MAYORIA_EDAD){
+	if(edad>=MAYORIA_EDAD){//Hola.
 		printf("\nBienvenido, puedes entrar.");
 	}else{
 		printf("\nLo sentimos no puedes entrar, eres menor de edad.");
